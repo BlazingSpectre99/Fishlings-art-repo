@@ -1,0 +1,22 @@
+Pillars
+-Collection/completion potential, with variety
+-Soft aesthetic, slow-paced/chill, lighthearted
+-iso world movement, top down fishing view, front-facing shop view
+
+
+
+Others
+- walking
+- style guid
+- varied & interesting
+- title screen
+- music for BG
+- SFX
+- As a player I want a customization screen????
+- 3 tabs, 1 for fish, 1 for tackle, 1 for customization
+- shop screen UI/background
+- environment concept
+- written components???
+- successful fish
+- credit screen
+- 20 fish
